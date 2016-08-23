@@ -1,7 +1,0 @@
-<webscript>
-  <shortname>Folder Properties</shortname>
-  <description>This will get folder metadata information.</description>
-  <url>/com/mycompany/getfolder?nodeRef=</url>
-  <format default="json"/>
-  <authentication>user</authentication>
-</webscript>
