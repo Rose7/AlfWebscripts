@@ -1,0 +1,7 @@
+<webscript>
+  <shortname>Delete Folder</shortname>
+  <description>This will delete the Folder from the repository.</description>
+  <url>/com/mycompany/deletefolder?nodeRef=</url>
+  <authentication>user</authentication>
+  <format default="json"/>
+</webscript>
