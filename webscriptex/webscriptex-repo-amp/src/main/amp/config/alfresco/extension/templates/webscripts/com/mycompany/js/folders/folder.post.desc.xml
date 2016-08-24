@@ -1,0 +1,7 @@
+<webscript>
+  <shortname>Create Folder</shortname>
+  <description>This will create new folder in Alfresco repository.</description>
+  <url>/com/mycompany/createfolder</url>
+  <format default="json"/>
+  <authentication>user</authentication>
+</webscript>
